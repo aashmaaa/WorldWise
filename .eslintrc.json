@@ -2,6 +2,7 @@
   "extends": "react-app",
   "rules": {
     "no-unused-vars": "warn", // Change from "error" to "warn"
-    "eqeqeq": "warn"
+    "eqeqeq": "warn",
+    "react/prop-types": "off"
   }
 }

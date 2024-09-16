@@ -11,6 +11,7 @@ function Sidebar() {
       <AppNav />
 
       <Outlet />
+      <p>List of cities</p>
 
       <footer className={styles.footer}>
         <p className={styles.copyright}>
